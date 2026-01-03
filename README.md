@@ -3,18 +3,37 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=TheRealDalunacrobate.daprofiler)
 
-DaProfiler is an OSINT tool capable of tracing the digital identity of a target via social networks, emails, public information such as directories, business listings, etc.
-DaProfiler is also able to check if a face appears on the profile photos of returned accounts.
-DaProfiler can bring you a lot in the context of a search for email addresses on a French target using various techniques of mail guessing, mail swapping using the first and last name of your target.
-The developers inform you that you are responsible for the uses and actions you make of DaProfiler, this tool is above all a big data awareness tool, created to search for a person with his agreement and allow him to remove malicious traces of his digital identity to protect themselves.
+DaProfiler - это инструмент OSINT, способный отслеживать цифровую идентификацию цели с помощью социальных сетей, электронной почты, общедоступной информации, такой как каталоги, списки компаний и т.д.
+DaProfiler также может проверить, есть ли лицо на фотографиях профиля возвращенных аккаунтов.
+DaProfiler может принести вам много пользы в контексте поиска адресов электронной почты во французском адресате, используя различные методы угадывания почты, обмена сообщениями с использованием имени и фамилии вашего адресата.
+Разработчики сообщают вам, что вы несете ответственность за использование и действия, которые вы совершаете с помощью DaProfiler, этот инструмент - это, прежде всего, инструмент для анализа больших данных, созданный для поиска человека с его согласия и позволяющий ему удалять вредоносные следы своей цифровой идентификации, чтобы защитить себя.
 
 Input  : Name , Last Name <br>
 Output : email addresses, landline numbers, physical addresses, social networks, work history, photos, etc.
+## requirements
+
+- pip install requests
+- pip install bs4
+- pip install selenium
+- pip install colorama
+- pip install googlesearch-python
+- pip install treelib
+- pip install leakcheck
+- pip install update_check
+- pip install httpx
+- pip install tqdm
+- pip install linkedin-api~=2.0.0a
+- pip install statistics
+- python-socketio
+- pip install numpy
+- pip install opencv-python
+
+
 
 #### Installation
 Python 3.8 & Mozilla Firefox required.
 ```bash
-git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
+git clone https://github.com/nop-74/DaProfiler2026.git
 cd DaProfiler
 pip install -r requirements.txt
 ```
@@ -24,8 +43,9 @@ pip install -r requirements.txt
 ## Demo
 ![alt text](https://i.ibb.co/XSzG90S/Capture-censored.jpg)
 
-## Contributions
-All suggestions are welcome.
+## Угостить меня Кофе
 
-## Code parts used under license and authors
-+ [Palenath - Instagram Advanced Lookup Function](https://github.com/megadose/toutatis)
+![Alt text](https://github.com/nop-74/OPEN-AI-FREE-KEYS/blob/main/100.jpg)
+
+## Зависимости
+
