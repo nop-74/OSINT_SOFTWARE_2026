@@ -47,5 +47,5 @@ pip install -r requirements.txt
 
 ![Alt text](https://github.com/nop-74/OPEN-AI-FREE-KEYS/blob/main/100.jpg)
 
-## Зависимости
+[Telegram](https://t.me/fradyrad)
 
