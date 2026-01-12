@@ -28,7 +28,7 @@ Output : email addresses, landline numbers, physical addresses, social networks,
 - pip install numpy
 - pip install opencv-python
 
-
+##  [ДОНАТ ОТ ЯНДЕКС ДЗЕН](https://dzen.ru/privatsoft?donate=true)
 
 #### Installation
 Python 3.8 & Mozilla Firefox required.
@@ -48,4 +48,5 @@ pip install -r requirements.txt
 ![Alt text](https://github.com/nop-74/OPEN-AI-FREE-KEYS/blob/main/100.jpg)
 
 [Telegram](https://t.me/fradyrad)
+
 
